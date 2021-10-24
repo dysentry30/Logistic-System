@@ -60,15 +60,15 @@ https://yourwebsite.com/out
 #### 3. Show Products 
 This page is used for showing all products from database. This page have 2 features:
 
-1. Delete Product
+1. Delete Product \
 This feature is used for deleting selected product.
 
-2. Edit Product
+2. Edit Product \
 This feature is used for editing product e.g quantity product.
 
-    ```
-    https://yourwebsite.com/products
-    ```
+```
+https://yourwebsite.com/products
+```
 
 #### 4. Add Product
 this page is used for adding product and insert it to database.
