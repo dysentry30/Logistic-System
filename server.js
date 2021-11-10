@@ -11,7 +11,7 @@ const connection = mysql.createConnection({
     host: "localhost",
     user: "root",
     password: "",
-    database: "logistic_system"
+    database: "logistic_system" 
 })
 const diskStorage = multer.diskStorage({
     destination: (req, file, cb) => {
